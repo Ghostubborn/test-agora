@@ -1,0 +1,27 @@
+{
+  "name": "agora-rtc-react-quickstart",
+  "version": "1.0.0",
+  "description": "agora-rtc-react-quickstart",
+  "main": "src/index.js",
+  "author": "agora.io",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "agora-rtc-react": "2.0.0",
+    "loader-utils": "3.2.1",
+    "react": ">=16.8",
+    "react-dom": ">=16.8",
+    "react-scripts": "5.0.1",
+    "swr": "^2.2.4"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
